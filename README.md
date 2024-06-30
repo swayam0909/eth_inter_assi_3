@@ -38,5 +38,11 @@ To get started with this repository:
 git clone <(https://github.com/swayam0909/eth_inter_assi_3)>
 cd MyToken
 ```
+## Authors
+
+Swayam Raj Singh
+
+[swayam](https://academy.metacrafters.io/profile)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
